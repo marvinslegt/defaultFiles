@@ -1,0 +1,1 @@
+<p>This is our default page (index)</p>
